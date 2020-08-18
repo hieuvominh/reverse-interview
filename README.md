@@ -57,7 +57,7 @@ Hãy ghi nhớ rằng danh sách này sẽ được thay đổi, sắp xếp l�
 # Về Nhóm
 
 - Công việc được tổ chức thế nào?
-- Giao tiếp trong nhóm hạ tầng và giữa các nhốm thế nào?
+- Giao tiếp trong nhóm hạ tầng và giữa các nhóm thế nào?
 - Các bạn có dùng các công cụ quản trị dự án nào? Trải nghiệm của bạn với chúng thế nào?
 - Thông thường việc khác biệt quan điểm diễn ra và được giải quyết thế nào?
 - Ai là người đặt ra hạn chót và độ ưu tiên của công việc?
